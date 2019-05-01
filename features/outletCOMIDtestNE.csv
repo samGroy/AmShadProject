@@ -1,0 +1,669 @@
+UNIQUE_ID,FEATUREID,type,HUC10_Name,HUC10,HUC8_Name,HUC8,HUC6_Name,HUC6,HUC4_Name,HUC4,HUC2_Name,HUC2
+1737130,1737130,outlet,Penobscot River-Penobscot Bay,102000510,Lower Penobscot,1020005,Penobscot,10200,Penobscot,102,New England Region,1
+1736282,1736282,outlet,Penobscot River-Penobscot Bay,102000510,Lower Penobscot,1020005,Penobscot,10200,Penobscot,102,New England Region,1
+1737140,1737140,outlet,Penobscot River-Penobscot Bay,102000510,Lower Penobscot,1020005,Penobscot,10200,Penobscot,102,New England Region,1
+1736286,1736286,outlet,Penobscot River-Penobscot Bay,102000510,Lower Penobscot,1020005,Penobscot,10200,Penobscot,102,New England Region,1
+1736290,1736290,outlet,Penobscot River-Penobscot Bay,102000510,Lower Penobscot,1020005,Penobscot,10200,Penobscot,102,New England Region,1
+1736338,1736338,outlet,Penobscot River-Penobscot Bay,102000510,Lower Penobscot,1020005,Penobscot,10200,Penobscot,102,New England Region,1
+1736350,1736350,outlet,Penobscot River-Penobscot Bay,102000510,Lower Penobscot,1020005,Penobscot,10200,Penobscot,102,New England Region,1
+166173479,166173479,outlet,Penobscot River-Penobscot Bay,102000510,Lower Penobscot,1020005,Penobscot,10200,Penobscot,102,New England Region,1
+2682820,2682820,outlet,Penobscot River-Penobscot Bay,102000510,Lower Penobscot,1020005,Penobscot,10200,Penobscot,102,New England Region,1
+2682856,2682856,outlet,Penobscot River-Penobscot Bay,102000510,Lower Penobscot,1020005,Penobscot,10200,Penobscot,102,New England Region,1
+2682920,2682920,outlet,Bagaduce River-Frontal Penobscot Bay,105000216,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2678762,2678762,outlet,Lower Machias River,105000206,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676916,2676916,outlet,Roque Bluffs-Frontal Atlantic Ocean,105000208,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2677174,2677174,outlet,Roque Bluffs-Frontal Atlantic Ocean,105000208,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2678314,2678314,outlet,Pleasant River-Frontal Atlantic Ocean,105000209,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2678254,2678254,outlet,Pleasant River-Frontal Atlantic Ocean,105000209,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2678346,2678346,outlet,Pleasant River-Frontal Atlantic Ocean,105000209,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2677338,2677338,outlet,Schoodic Point-Frontal Atlantic Ocean,105000211,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2677342,2677342,outlet,Schoodic Point-Frontal Atlantic Ocean,105000211,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2680272,2680272,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2680262,2680262,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2680230,2680230,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2680356,2680356,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2681538,2681538,outlet,Union River Bay,105000213,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682718,2682718,outlet,Union River Bay,105000213,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683482,2683482,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683658,2683658,outlet,Bagaduce River-Frontal Penobscot Bay,105000216,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2685846,2685846,outlet,Passagassawakeag River-Frontal Belfast Bay,105000218,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2684282,2684282,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2685766,2685766,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2685488,2685488,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2680406,2680406,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683300,2683300,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683504,2683504,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683342,2683342,outlet,Eggemoggin Reach-Frontal Atlantic Ocean,105000217,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2686254,2686254,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2686252,2686252,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2685526,2685526,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2686246,2686246,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2685942,2685942,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2685518,2685518,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2685514,2685514,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2685510,2685510,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2685486,2685486,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2685782,2685782,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2685780,2685780,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2685452,2685452,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683290,2683290,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683282,2683282,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683246,2683246,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683206,2683206,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683082,2683082,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2684284,2684284,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683020,2683020,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683004,2683004,outlet,Passagassawakeag River-Frontal Belfast Bay,105000218,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682954,2682954,outlet,Passagassawakeag River-Frontal Belfast Bay,105000218,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682970,2682970,outlet,Passagassawakeag River-Frontal Belfast Bay,105000218,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682966,2682966,outlet,Passagassawakeag River-Frontal Belfast Bay,105000218,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682958,2682958,outlet,Passagassawakeag River-Frontal Belfast Bay,105000218,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682952,2682952,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682922,2682922,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682884,2682884,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682882,2682882,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682874,2682874,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682870,2682870,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682834,2682834,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682832,2682832,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682812,2682812,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682788,2682788,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683018,2683018,outlet,Bagaduce River-Frontal Penobscot Bay,105000216,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683036,2683036,outlet,Bagaduce River-Frontal Penobscot Bay,105000216,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682968,2682968,outlet,Bagaduce River-Frontal Penobscot Bay,105000216,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682900,2682900,outlet,Bagaduce River-Frontal Penobscot Bay,105000216,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682818,2682818,outlet,Bagaduce River-Frontal Penobscot Bay,105000216,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682840,2682840,outlet,Bagaduce River-Frontal Penobscot Bay,105000216,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682888,2682888,outlet,Bagaduce River-Frontal Penobscot Bay,105000216,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683034,2683034,outlet,Bagaduce River-Frontal Penobscot Bay,105000216,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683478,2683478,outlet,Bagaduce River-Frontal Penobscot Bay,105000216,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683130,2683130,outlet,Eggemoggin Reach-Frontal Atlantic Ocean,105000217,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683102,2683102,outlet,Eggemoggin Reach-Frontal Atlantic Ocean,105000217,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683226,2683226,outlet,Eggemoggin Reach-Frontal Atlantic Ocean,105000217,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683258,2683258,outlet,Eggemoggin Reach-Frontal Atlantic Ocean,105000217,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683252,2683252,outlet,Eggemoggin Reach-Frontal Atlantic Ocean,105000217,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683490,2683490,outlet,Bagaduce River-Frontal Penobscot Bay,105000216,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683286,2683286,outlet,Eggemoggin Reach-Frontal Atlantic Ocean,105000217,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683310,2683310,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683318,2683318,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683510,2683510,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683502,2683502,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683050,2683050,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682998,2682998,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682996,2682996,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682990,2682990,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683448,2683448,outlet,Union River Bay,105000213,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682872,2682872,outlet,Union River Bay,105000213,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682838,2682838,outlet,Union River Bay,105000213,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682778,2682778,outlet,Union River Bay,105000213,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682714,2682714,outlet,Union River Bay,105000213,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682770,2682770,outlet,Union River Bay,105000213,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682802,2682802,outlet,Union River Bay,105000213,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682830,2682830,outlet,Union River Bay,105000213,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682918,2682918,outlet,Union River Bay,105000213,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682982,2682982,outlet,Union River Bay,105000213,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682926,2682926,outlet,Union River Bay,105000213,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683592,2683592,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682804,2682804,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682764,2682764,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2680502,2680502,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2680450,2680450,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2680398,2680398,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2680876,2680876,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682710,2682710,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2680364,2680364,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2680244,2680244,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2680862,2680862,outlet,Graham Lake,105000212,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2680212,2680212,outlet,Graham Lake,105000212,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2680368,2680368,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2680384,2680384,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2680440,2680440,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2680458,2680458,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2680472,2680472,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682732,2682732,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682790,2682790,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682822,2682822,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682894,2682894,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683028,2683028,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683146,2683146,outlet,Schoodic Point-Frontal Atlantic Ocean,105000211,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683084,2683084,outlet,Schoodic Point-Frontal Atlantic Ocean,105000211,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683044,2683044,outlet,Schoodic Point-Frontal Atlantic Ocean,105000211,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683002,2683002,outlet,Schoodic Point-Frontal Atlantic Ocean,105000211,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682210,2682210,outlet,Schoodic Point-Frontal Atlantic Ocean,105000211,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682206,2682206,outlet,Schoodic Point-Frontal Atlantic Ocean,105000211,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682942,2682942,outlet,Schoodic Point-Frontal Atlantic Ocean,105000211,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682934,2682934,outlet,Schoodic Point-Frontal Atlantic Ocean,105000211,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682886,2682886,outlet,Schoodic Point-Frontal Atlantic Ocean,105000211,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682762,2682762,outlet,Schoodic Point-Frontal Atlantic Ocean,105000211,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682722,2682722,outlet,Schoodic Point-Frontal Atlantic Ocean,105000211,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682204,2682204,outlet,Schoodic Point-Frontal Atlantic Ocean,105000211,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682202,2682202,outlet,Schoodic Point-Frontal Atlantic Ocean,105000211,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682198,2682198,outlet,Schoodic Point-Frontal Atlantic Ocean,105000211,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682200,2682200,outlet,Narraguagus River-Frontal Atlantic Ocean,105000210,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682196,2682196,outlet,Narraguagus River-Frontal Atlantic Ocean,105000210,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2677316,2677316,outlet,Narraguagus River-Frontal Atlantic Ocean,105000210,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2677284,2677284,outlet,Pleasant River-Frontal Atlantic Ocean,105000209,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2678298,2678298,outlet,Pleasant River-Frontal Atlantic Ocean,105000209,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2678284,2678284,outlet,Pleasant River-Frontal Atlantic Ocean,105000209,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2678268,2678268,outlet,Pleasant River-Frontal Atlantic Ocean,105000209,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2677320,2677320,outlet,Pleasant River-Frontal Atlantic Ocean,105000209,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2677306,2677306,outlet,Roque Bluffs-Frontal Atlantic Ocean,105000208,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2677304,2677304,outlet,Roque Bluffs-Frontal Atlantic Ocean,105000208,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2677194,2677194,outlet,Roque Bluffs-Frontal Atlantic Ocean,105000208,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2677190,2677190,outlet,Roque Bluffs-Frontal Atlantic Ocean,105000208,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2677764,2677764,outlet,Roque Bluffs-Frontal Atlantic Ocean,105000208,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2677296,2677296,outlet,Roque Bluffs-Frontal Atlantic Ocean,105000208,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2677750,2677750,outlet,Roque Bluffs-Frontal Atlantic Ocean,105000208,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676906,2676906,outlet,Lower Machias River,105000206,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676934,2676934,outlet,Roque Bluffs-Frontal Atlantic Ocean,105000208,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2677064,2677064,outlet,Roque Bluffs-Frontal Atlantic Ocean,105000208,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676894,2676894,outlet,Lower Machias River,105000206,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676892,2676892,outlet,Lower Machias River,105000206,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2677012,2677012,outlet,Machias Bay-Frontal Atlantic Ocean,105000207,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676896,2676896,outlet,Machias Bay-Frontal Atlantic Ocean,105000207,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676788,2676788,outlet,Lower Machias River,105000206,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2678116,2678116,outlet,Lower Machias River,105000206,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2677712,2677712,outlet,East Machias River,105000202,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676736,2676736,outlet,Machias Bay-Frontal Atlantic Ocean,105000207,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676760,2676760,outlet,Machias Bay-Frontal Atlantic Ocean,105000207,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2677738,2677738,outlet,Machias Bay-Frontal Atlantic Ocean,105000207,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676870,2676870,outlet,Machias Bay-Frontal Atlantic Ocean,105000207,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683528,2683528,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683354,2683354,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683350,2683350,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683530,2683530,outlet,Eggemoggin Reach-Frontal Atlantic Ocean,105000217,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683366,2683366,outlet,Eggemoggin Reach-Frontal Atlantic Ocean,105000217,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683042,2683042,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683006,2683006,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683052,2683052,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683118,2683118,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683182,2683182,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683308,2683308,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683328,2683328,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683512,2683512,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683322,2683322,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683516,2683516,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683334,2683334,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683326,2683326,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683140,2683140,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683112,2683112,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683070,2683070,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683114,2683114,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683158,2683158,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683176,2683176,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683280,2683280,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683276,2683276,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683298,2683298,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683288,2683288,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683508,2683508,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683348,2683348,outlet,Eggemoggin Reach-Frontal Atlantic Ocean,105000217,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683302,2683302,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683094,2683094,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683108,2683108,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683162,2683162,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683332,2683332,outlet,Eggemoggin Reach-Frontal Atlantic Ocean,105000217,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683526,2683526,outlet,Eggemoggin Reach-Frontal Atlantic Ocean,105000217,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682786,2682786,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676686,2676686,outlet,East Machias River,105000202,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2684210,2684210,outlet,Eggemoggin Reach-Frontal Atlantic Ocean,105000217,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2692002,2692002,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683730,2683730,outlet,Eggemoggin Reach-Frontal Atlantic Ocean,105000217,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2683464,2683464,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2677724,2677724,outlet,Machias Bay-Frontal Atlantic Ocean,105000207,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2684080,2684080,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2684206,2684206,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+166174088,166174088,outlet,Schoodic Point-Frontal Atlantic Ocean,105000211,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+166174093,166174093,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2684182,2684182,outlet,Blue Hill Bay-Frontal Atlantic Ocean,105000215,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2684194,2684194,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2682908,2682908,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2677062,2677062,outlet,Roque Bluffs-Frontal Atlantic Ocean,105000208,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2680402,2680402,outlet,Frenchman Bay-Frontal Atlantic Ocean,105000214,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+931050021,931050021,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+931050024,931050024,outlet,Eggemoggin Reach-Frontal Atlantic Ocean,105000217,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2684150,2684150,outlet,Eggemoggin Reach-Frontal Atlantic Ocean,105000217,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+931050028,931050028,outlet,Eggemoggin Reach-Frontal Atlantic Ocean,105000217,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+931050029,931050029,outlet,Penobscot Bay-Frontal Atlantic Ocean,105000219,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+5203366,5203366,outlet,Muscongus Bay-Frontal Atlantic Ocean,105000302,St. George-Sheepscot,1050003,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+5203188,5203188,outlet,Muscongus Bay-Frontal Atlantic Ocean,105000302,St. George-Sheepscot,1050003,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+5204982,5204982,outlet,Sheepscot Bay-Frontal Atlantic Ocean,105000305,St. George-Sheepscot,1050003,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+5204986,5204986,outlet,Kennebec River-Frontal Atlantic Ocean,105000306,St. George-Sheepscot,1050003,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+5205156,5205156,outlet,Kennebec River-Frontal Atlantic Ocean,105000306,St. George-Sheepscot,1050003,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+5204942,5204942,outlet,Boothbay Harbor-Frontal Atlantic Ocean,105000303,St. George-Sheepscot,1050003,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+5204944,5204944,outlet,Boothbay Harbor-Frontal Atlantic Ocean,105000303,St. George-Sheepscot,1050003,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+5204910,5204910,outlet,Muscongus Bay-Frontal Atlantic Ocean,105000302,St. George-Sheepscot,1050003,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+5204874,5204874,outlet,Muscongus Bay-Frontal Atlantic Ocean,105000302,St. George-Sheepscot,1050003,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+5204812,5204812,outlet,Muscongus Bay-Frontal Atlantic Ocean,105000302,St. George-Sheepscot,1050003,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+5204758,5204758,outlet,Muscongus Bay-Frontal Atlantic Ocean,105000302,St. George-Sheepscot,1050003,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+5203362,5203362,outlet,Muscongus Bay-Frontal Atlantic Ocean,105000302,St. George-Sheepscot,1050003,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+5203252,5203252,outlet,Muscongus Bay-Frontal Atlantic Ocean,105000302,St. George-Sheepscot,1050003,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+5203278,5203278,outlet,Saint George River,105000301,St. George-Sheepscot,1050003,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+5204686,5204686,outlet,Muscongus Bay-Frontal Atlantic Ocean,105000302,St. George-Sheepscot,1050003,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+5204980,5204980,outlet,Sheepscot Bay-Frontal Atlantic Ocean,105000305,St. George-Sheepscot,1050003,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+5204960,5204960,outlet,Sheepscot Bay-Frontal Atlantic Ocean,105000305,St. George-Sheepscot,1050003,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+5205314,5205314,outlet,Sheepscot Bay-Frontal Atlantic Ocean,105000305,St. George-Sheepscot,1050003,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+5205320,5205320,outlet,Kennebec River-Frontal Atlantic Ocean,105000306,St. George-Sheepscot,1050003,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+5205406,5205406,outlet,Boothbay Harbor-Frontal Atlantic Ocean,105000303,St. George-Sheepscot,1050003,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+5205416,5205416,outlet,Boothbay Harbor-Frontal Atlantic Ocean,105000303,St. George-Sheepscot,1050003,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+5205436,5205436,outlet,Saint George River,105000301,St. George-Sheepscot,1050003,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+5205444,5205444,outlet,Muscongus Bay-Frontal Atlantic Ocean,105000302,St. George-Sheepscot,1050003,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+5197182,5197182,outlet,Lower Saint Croix River,105000108,St. Croix,1050001,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+166174043,166174043,outlet,Passamaquoddy Bay,105000407,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676304,2676304,outlet,Dennys River,105000404,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676306,2676306,outlet,Cobscook Bay-Frontal Passamaquoddy Bay,105000406,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676552,2676552,outlet,Cobscook Bay-Frontal Passamaquoddy Bay,105000406,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676550,2676550,outlet,Cobscook Bay-Frontal Passamaquoddy Bay,105000406,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676904,2676904,outlet,Machias Bay-Frontal Atlantic Ocean,105000207,Maine Coastal,1050002,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676856,2676856,outlet,Grand Manan Channel-Frontal Atlantic Ocean,105000409,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676732,2676732,outlet,Grand Manan Channel-Frontal Atlantic Ocean,105000409,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676728,2676728,outlet,Cobscook Bay-Frontal Passamaquoddy Bay,105000406,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676690,2676690,outlet,Grand Manan Channel-Frontal Atlantic Ocean,105000409,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676670,2676670,outlet,Cobscook Bay-Frontal Passamaquoddy Bay,105000406,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676636,2676636,outlet,Grand Manan Channel-Frontal Atlantic Ocean,105000409,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676628,2676628,outlet,Grand Manan Channel-Frontal Atlantic Ocean,105000409,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676548,2676548,outlet,Cobscook Bay-Frontal Passamaquoddy Bay,105000406,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2675418,2675418,outlet,Grand Manan Channel-Frontal Atlantic Ocean,105000409,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2675414,2675414,outlet,Grand Manan Channel-Frontal Atlantic Ocean,105000409,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2675410,2675410,outlet,Grand Manan Channel-Frontal Atlantic Ocean,105000409,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2675408,2675408,outlet,Grand Manan Channel-Frontal Atlantic Ocean,105000409,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676502,2676502,outlet,Cobscook Bay-Frontal Passamaquoddy Bay,105000406,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676402,2676402,outlet,Cobscook Bay-Frontal Passamaquoddy Bay,105000406,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676442,2676442,outlet,Cobscook Bay-Frontal Passamaquoddy Bay,105000406,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676392,2676392,outlet,Cobscook Bay-Frontal Passamaquoddy Bay,105000406,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2677500,2677500,outlet,Dennys River,105000404,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676256,2676256,outlet,Cobscook Bay-Frontal Passamaquoddy Bay,105000406,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676190,2676190,outlet,Pennamaquan River-Frontal Cobscook Bay,105000405,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676170,2676170,outlet,Pennamaquan River-Frontal Cobscook Bay,105000405,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676164,2676164,outlet,Pennamaquan River-Frontal Cobscook Bay,105000405,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676148,2676148,outlet,Cobscook Bay-Frontal Passamaquoddy Bay,105000406,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676174,2676174,outlet,Pennamaquan River-Frontal Cobscook Bay,105000405,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676184,2676184,outlet,Cobscook Bay-Frontal Passamaquoddy Bay,105000406,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676142,2676142,outlet,Cobscook Bay-Frontal Passamaquoddy Bay,105000406,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2675406,2675406,outlet,Cobscook Bay-Frontal Passamaquoddy Bay,105000406,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676104,2676104,outlet,Cobscook Bay-Frontal Passamaquoddy Bay,105000406,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676092,2676092,outlet,Cobscook Bay-Frontal Passamaquoddy Bay,105000406,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676776,2676776,outlet,Grand Manan Channel-Frontal Atlantic Ocean,105000409,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+2676162,2676162,outlet,Cobscook Bay-Frontal Passamaquoddy Bay,105000406,Passamaquoddy Bay-Bay of Fundy,1050004,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+6719405,6719405,outlet,Casco Bay-Frontal Atlantic Ocean,106000106,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6722833,6722833,outlet,Saco Bay-Frontal Atlantic Ocean,106000105,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6721761,6721761,outlet,Saco Bay-Frontal Atlantic Ocean,106000105,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6721743,6721743,outlet,Saco Bay-Frontal Atlantic Ocean,106000105,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6721667,6721667,outlet,Casco Bay-Frontal Atlantic Ocean,106000106,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6721637,6721637,outlet,Saco Bay-Frontal Atlantic Ocean,106000105,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6721625,6721625,outlet,Fore River,106000104,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6721949,6721949,outlet,Fore River,106000104,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6722649,6722649,outlet,Fore River,106000104,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6721595,6721595,outlet,Fore River,106000104,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6721589,6721589,outlet,Fore River,106000104,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6721531,6721531,outlet,Fore River,106000104,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6722655,6722655,outlet,Fore River,106000104,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6721469,6721469,outlet,Casco Bay-Frontal Atlantic Ocean,106000106,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6721467,6721467,outlet,Presumpscot River,106000103,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6721335,6721335,outlet,Presumpscot River,106000103,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6721221,6721221,outlet,Casco Bay-Frontal Atlantic Ocean,106000106,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6721037,6721037,outlet,Casco Bay-Frontal Atlantic Ocean,106000106,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6720907,6720907,outlet,Casco Bay-Frontal Atlantic Ocean,106000106,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6719385,6719385,outlet,Casco Bay-Frontal Atlantic Ocean,106000106,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6719389,6719389,outlet,Casco Bay-Frontal Atlantic Ocean,106000106,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6719467,6719467,outlet,Casco Bay-Frontal Atlantic Ocean,106000106,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6721235,6721235,outlet,Casco Bay-Frontal Atlantic Ocean,106000106,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6719417,6719417,outlet,Casco Bay-Frontal Atlantic Ocean,106000106,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6719407,6719407,outlet,Casco Bay-Frontal Atlantic Ocean,106000106,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6719395,6719395,outlet,Casco Bay-Frontal Atlantic Ocean,106000106,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6719393,6719393,outlet,Cathance River-Androscoggin River,104000210,Lower Androscoggin,1040002,Androscoggin,10400,Androscoggin,104,New England Region,1
+6719459,6719459,outlet,Casco Bay-Frontal Atlantic Ocean,106000106,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6719555,6719555,outlet,Casco Bay-Frontal Atlantic Ocean,106000106,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6719419,6719419,outlet,Kennebec River-Frontal Atlantic Ocean,105000306,St. George-Sheepscot,1050003,Maine Coastal,10500,Maine Coastal,105,New England Region,1
+6719413,6719413,outlet,Casco Bay-Frontal Atlantic Ocean,106000106,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6719541,6719541,outlet,Casco Bay-Frontal Atlantic Ocean,106000106,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6724819,6724819,outlet,Saco Bay-Frontal Atlantic Ocean,106000105,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6724863,6724863,outlet,Presumpscot River,106000103,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6724891,6724891,outlet,Casco Bay-Frontal Atlantic Ocean,106000106,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6724895,6724895,outlet,Royal River,106000102,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+6724963,6724963,outlet,Saco Bay-Frontal Atlantic Ocean,106000105,Presumpscot,1060001,Saco,10600,Saco,106,New England Region,1
+9316927,9316927,outlet,Saco River-Frontal Saco Bay,106000211,Saco,1060002,Saco,10600,Saco,106,New England Region,1
+5844098,5844098,outlet,Saco River-Frontal Saco Bay,106000211,Saco,1060002,Saco,10600,Saco,106,New England Region,1
+5845728,5845728,outlet,Mousam River-Frontal Atlantic Ocean,106000302,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5845954,5845954,outlet,York River-Frontal Atlantic Ocean,106000311,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5849520,5849520,outlet,Hampton River-Atlantic Ocean,106000310,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5849272,5849272,outlet,Hampton River-Atlantic Ocean,106000310,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5849248,5849248,outlet,Hampton River-Atlantic Ocean,106000310,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5845310,5845310,outlet,Hampton River-Atlantic Ocean,106000310,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5845282,5845282,outlet,Hampton River-Atlantic Ocean,106000310,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5845564,5845564,outlet,Hampton River-Atlantic Ocean,106000310,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5846016,5846016,outlet,Hampton River-Atlantic Ocean,106000310,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5845164,5845164,outlet,Hampton River-Atlantic Ocean,106000310,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5846384,5846384,outlet,Hampton River-Atlantic Ocean,106000310,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5845066,5845066,outlet,York River-Frontal Atlantic Ocean,106000311,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5845056,5845056,outlet,York River-Frontal Atlantic Ocean,106000311,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5845032,5845032,outlet,York River-Frontal Atlantic Ocean,106000311,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5846380,5846380,outlet,York River-Frontal Atlantic Ocean,106000311,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5844810,5844810,outlet,York River-Frontal Atlantic Ocean,106000311,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5844792,5844792,outlet,York River-Frontal Atlantic Ocean,106000311,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5844784,5844784,outlet,York River-Frontal Atlantic Ocean,106000311,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5844746,5844746,outlet,York River-Frontal Atlantic Ocean,106000311,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5844742,5844742,outlet,York River-Frontal Atlantic Ocean,106000311,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5844738,5844738,outlet,York River-Frontal Atlantic Ocean,106000311,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5845496,5845496,outlet,York River-Frontal Atlantic Ocean,106000311,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5845762,5845762,outlet,York River-Frontal Atlantic Ocean,106000311,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5844512,5844512,outlet,Goosefare Bay-Frontal Atlantic Ocean,106000303,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5844450,5844450,outlet,Goosefare Bay-Frontal Atlantic Ocean,106000303,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5844452,5844452,outlet,Goosefare Bay-Frontal Atlantic Ocean,106000303,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5844454,5844454,outlet,Goosefare Bay-Frontal Atlantic Ocean,106000303,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5844402,5844402,outlet,Goosefare Bay-Frontal Atlantic Ocean,106000303,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5846350,5846350,outlet,Goosefare Bay-Frontal Atlantic Ocean,106000303,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5846362,5846362,outlet,Goosefare Bay-Frontal Atlantic Ocean,106000303,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5846372,5846372,outlet,Goosefare Bay-Frontal Atlantic Ocean,106000303,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5846376,5846376,outlet,York River-Frontal Atlantic Ocean,106000311,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5846422,5846422,outlet,Hampton River-Atlantic Ocean,106000310,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5846424,5846424,outlet,Hampton River-Atlantic Ocean,106000310,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5846476,5846476,outlet,Hampton River-Atlantic Ocean,106000310,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+5846482,5846482,outlet,Hampton River-Atlantic Ocean,106000310,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+931060007,931060007,outlet,Hampton River-Atlantic Ocean,106000310,Piscataqua-Salmon Falls,1060003,Saco,10600,Saco,106,New England Region,1
+6742822,6742822,outlet,Powwow River-Merrimack River,107000614,Merrimack River,1070006,Merrimack,10700,Merrimack,107,New England Region,1
+7703046,7703046,outlet,Eightmile River-Connecticut River,108020509,Lower Connecticut,1080205,Lower Connecticut,10802,Connecticut,108,New England Region,1
+5860733,5860733,outlet,Plum Island Sound,109000101,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860759,5860759,outlet,Plum Island Sound,109000101,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860787,5860787,outlet,Ipswich River,109000102,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860873,5860873,outlet,Essex River-Frontal Ipswich Bay,109000103,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5863827,5863827,outlet,Saugus River,109000104,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5868233,5868233,outlet,Lower Charles River,109000107,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5867753,5867753,outlet,Neponset River,109000108,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5863885,5863885,outlet,Boston Harbor-Massachusetts Bay,109000110,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5863413,5863413,outlet,Boston Harbor-Massachusetts Bay,109000110,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5863879,5863879,outlet,Hingham Bay,109000109,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5863953,5863953,outlet,Hingham Bay,109000109,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5866543,5866543,outlet,Hingham Bay,109000109,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5867681,5867681,outlet,Lower Charles River,109000107,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5863363,5863363,outlet,Boston Harbor-Massachusetts Bay,109000110,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5863725,5863725,outlet,Boston Harbor-Massachusetts Bay,109000110,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5863353,5863353,outlet,Boston Harbor-Massachusetts Bay,109000110,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860941,5860941,outlet,Boston Harbor-Massachusetts Bay,109000110,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860509,5860509,outlet,Boston Harbor-Massachusetts Bay,109000110,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860493,5860493,outlet,Boston Harbor-Massachusetts Bay,109000110,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860479,5860479,outlet,Boston Harbor-Massachusetts Bay,109000110,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860877,5860877,outlet,Boston Harbor-Massachusetts Bay,109000110,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860839,5860839,outlet,Essex River-Frontal Ipswich Bay,109000103,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860871,5860871,outlet,Essex River-Frontal Ipswich Bay,109000103,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860669,5860669,outlet,Essex River-Frontal Ipswich Bay,109000103,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860865,5860865,outlet,Essex River-Frontal Ipswich Bay,109000103,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860861,5860861,outlet,Essex River-Frontal Ipswich Bay,109000103,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860637,5860637,outlet,Essex River-Frontal Ipswich Bay,109000103,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860813,5860813,outlet,Essex River-Frontal Ipswich Bay,109000103,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860393,5860393,outlet,Essex River-Frontal Ipswich Bay,109000103,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860781,5860781,outlet,Ipswich River,109000102,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860351,5860351,outlet,Plum Island Sound,109000101,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860347,5860347,outlet,Plum Island Sound,109000101,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860321,5860321,outlet,Plum Island Sound,109000101,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860753,5860753,outlet,Plum Island Sound,109000101,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860735,5860735,outlet,Plum Island Sound,109000101,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860309,5860309,outlet,Plum Island Sound,109000101,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860349,5860349,outlet,Plum Island Sound,109000101,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860411,5860411,outlet,Essex River-Frontal Ipswich Bay,109000103,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860425,5860425,outlet,Boston Harbor-Massachusetts Bay,109000110,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860417,5860417,outlet,Boston Harbor-Massachusetts Bay,109000110,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860869,5860869,outlet,Boston Harbor-Massachusetts Bay,109000110,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+166174795,166174795,outlet,Essex River-Frontal Ipswich Bay,109000103,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860419,5860419,outlet,Essex River-Frontal Ipswich Bay,109000103,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5867683,5867683,outlet,Lower Charles River,109000107,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860449,5860449,outlet,Boston Harbor-Massachusetts Bay,109000110,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5863919,5863919,outlet,Hingham Bay,109000109,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5863857,5863857,outlet,Boston Harbor-Massachusetts Bay,109000110,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5860729,5860729,outlet,Plum Island Sound,109000101,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+166174784,166174784,outlet,Boston Harbor-Massachusetts Bay,109000110,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5876319,5876319,outlet,North River-Frontal Massachusetts Bay,109000201,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5876789,5876789,outlet,North River-Frontal Massachusetts Bay,109000201,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5876557,5876557,outlet,North River-Frontal Massachusetts Bay,109000201,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878849,5878849,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878667,5878667,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878721,5878721,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5879055,5879055,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5879063,5879063,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5884499,5884499,outlet,Mattapoisett River-Buzzards Bay,109000203,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878623,5878623,outlet,Mattapoisett River-Buzzards Bay,109000203,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878625,5878625,outlet,Mattapoisett River-Buzzards Bay,109000203,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878883,5878883,outlet,Mattapoisett River-Buzzards Bay,109000203,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878903,5878903,outlet,Mattapoisett River-Buzzards Bay,109000203,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878897,5878897,outlet,Paskamanset River-Frontal Buzzards Bay,109000204,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5881821,5881821,outlet,Paskamanset River-Frontal Buzzards Bay,109000204,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5881881,5881881,outlet,Sakonnet Point-Frontal Rhode Island Sound,109000205,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878913,5878913,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5875729,5875729,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5882203,5882203,outlet,Nantucket Island,109000207,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5882763,5882763,outlet,Sakonnet Point-Frontal Rhode Island Sound,109000205,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5882757,5882757,outlet,Sakonnet Point-Frontal Rhode Island Sound,109000205,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5882755,5882755,outlet,Sakonnet Point-Frontal Rhode Island Sound,109000205,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5881561,5881561,outlet,Sakonnet Point-Frontal Rhode Island Sound,109000205,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5881825,5881825,outlet,Paskamanset River-Frontal Buzzards Bay,109000204,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878723,5878723,outlet,Paskamanset River-Frontal Buzzards Bay,109000204,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878649,5878649,outlet,Mattapoisett River-Buzzards Bay,109000203,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878751,5878751,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878749,5878749,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878747,5878747,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878743,5878743,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878735,5878735,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878739,5878739,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878741,5878741,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878909,5878909,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878689,5878689,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878705,5878705,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878699,5878699,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878901,5878901,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878899,5878899,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878675,5878675,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878677,5878677,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5876967,5876967,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5876959,5876959,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5876957,5876957,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5876955,5876955,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5876951,5876951,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878573,5878573,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5876949,5876949,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5876973,5876973,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878595,5878595,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878865,5878865,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878877,5878877,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878887,5878887,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878655,5878655,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878993,5878993,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878983,5878983,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878875,5878875,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878571,5878571,outlet,North River-Frontal Massachusetts Bay,109000201,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5875859,5875859,outlet,North River-Frontal Massachusetts Bay,109000201,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5875871,5875871,outlet,North River-Frontal Massachusetts Bay,109000201,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5876339,5876339,outlet,North River-Frontal Massachusetts Bay,109000201,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5875461,5875461,outlet,North River-Frontal Massachusetts Bay,109000201,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5875435,5875435,outlet,North River-Frontal Massachusetts Bay,109000201,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5876065,5876065,outlet,Boston Harbor-Massachusetts Bay,109000110,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5882173,5882173,outlet,Nantucket Island,109000207,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5882189,5882189,outlet,Nantucket Island,109000207,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5882171,5882171,outlet,Martha's Vineyard,109000206,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5882177,5882177,outlet,Martha's Vineyard,109000206,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5882155,5882155,outlet,Martha's Vineyard,109000206,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5882159,5882159,outlet,Martha's Vineyard,109000206,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5882161,5882161,outlet,Martha's Vineyard,109000206,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5882427,5882427,outlet,Martha's Vineyard,109000206,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5882767,5882767,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5876505,5876505,outlet,North River-Frontal Massachusetts Bay,109000201,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5876583,5876583,outlet,North River-Frontal Massachusetts Bay,109000201,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5882391,5882391,outlet,Martha's Vineyard,109000206,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878885,5878885,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5882381,5882381,outlet,Nantucket Island,109000207,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+166174892,166174892,outlet,Upper Taunton River,109000402,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+166174904,166174904,outlet,North River-Frontal Massachusetts Bay,109000201,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5878919,5878919,outlet,Cape Cod,109000202,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+166174925,166174925,outlet,North River-Frontal Massachusetts Bay,109000201,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+931090014,931090014,outlet,Martha's Vineyard,109000206,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5863409,5863409,outlet,Boston Harbor-Massachusetts Bay,109000110,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5863417,5863417,outlet,Boston Harbor-Massachusetts Bay,109000110,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5863415,5863415,outlet,Boston Harbor-Massachusetts Bay,109000110,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+5863393,5863393,outlet,Boston Harbor-Massachusetts Bay,109000110,Charles,1090001,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6131379,6131379,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6131373,6131373,outlet,Sakonnet Point-Frontal Rhode Island Sound,109000205,Cape Cod,1090002,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6130799,6130799,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6130319,6130319,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129003,6129003,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6130363,6130363,outlet,Palmer River,109000407,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6130475,6130475,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6131459,6131459,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129183,6129183,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129289,6129289,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6131351,6131351,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6131383,6131383,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6131381,6131381,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6131377,6131377,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6131363,6131363,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129245,6129245,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129247,6129247,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129287,6129287,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129281,6129281,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129293,6129293,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129321,6129321,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129359,6129359,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6131367,6131367,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129323,6129323,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129313,6129313,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129301,6129301,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129295,6129295,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129291,6129291,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129721,6129721,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129279,6129279,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129249,6129249,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129111,6129111,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129091,6129091,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129087,6129087,outlet,Pawtuxet River,109000406,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129083,6129083,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129047,6129047,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129025,6129025,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129137,6129137,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129139,6129139,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129147,6129147,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6130357,6130357,outlet,Palmer River,109000407,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129001,6129001,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6130309,6130309,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129231,6129231,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129225,6129225,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129349,6129349,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6129351,6129351,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6134087,6134087,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6131507,6131507,outlet,Narragansett Bay-Frontal Rhode Island Sound,109000409,Narragansett,1090004,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6141214,6141214,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6141212,6141212,outlet,Block Island-Frontal Block Island Sound,109000504,Pawcatuck-Wood,1090005,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6140978,6140978,outlet,Block Island-Frontal Block Island Sound,109000504,Pawcatuck-Wood,1090005,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6141346,6141346,outlet,Block Island-Frontal Block Island Sound,109000504,Pawcatuck-Wood,1090005,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6141206,6141206,outlet,Block Island-Frontal Block Island Sound,109000504,Pawcatuck-Wood,1090005,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6141190,6141190,outlet,Block Island-Frontal Block Island Sound,109000504,Pawcatuck-Wood,1090005,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6141328,6141328,outlet,Block Island-Frontal Block Island Sound,109000504,Pawcatuck-Wood,1090005,Massachusetts-Rhode Island Coastal,10900,Massachusetts-Rhode Island Coastal,109,New England Region,1
+6168812,6168812,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6168954,6168954,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6170754,6170754,outlet,Thames River-Frontal New London Harbor,110000302,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6170768,6170768,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6170358,6170358,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+25075737,25075737,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6170546,6170546,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6170350,6170350,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6170348,6170348,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6170344,6170344,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6170770,6170770,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6170544,6170544,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6170530,6170530,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6170338,6170338,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6170314,6170314,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6170346,6170346,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6170332,6170332,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6168824,6168824,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6168832,6168832,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6168830,6168830,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6168826,6168826,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6168828,6168828,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6168852,6168852,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6168850,6168850,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6168854,6168854,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6168860,6168860,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6168896,6168896,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6170368,6170368,outlet,Eightmile River-Connecticut River,108020509,Lower Connecticut,1080205,Lower Connecticut,10802,Connecticut,108,New England Region,1
+6170364,6170364,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6168846,6168846,outlet,Mystic River-Frontal Fishers Island Sound,110000303,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6170366,6170366,outlet,Eightmile River-Connecticut River,108020509,Lower Connecticut,1080205,Lower Connecticut,10802,Connecticut,108,New England Region,1
+6170370,6170370,outlet,Eightmile River-Connecticut River,108020509,Lower Connecticut,1080205,Lower Connecticut,10802,Connecticut,108,New England Region,1
+6170354,6170354,outlet,Thames River-Frontal New London Harbor,110000302,Thames,1100003,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6178200,6178200,outlet,Hammonasset River-Frontal Long Island Sound,110000402,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6178248,6178248,outlet,Hammonasset River-Frontal Long Island Sound,110000402,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6177936,6177936,outlet,Hammonasset River-Frontal Long Island Sound,110000402,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6178258,6178258,outlet,Hammonasset River-Frontal Long Island Sound,110000402,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6178290,6178290,outlet,Hammonasset River-Frontal Long Island Sound,110000402,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6177670,6177670,outlet,Hammonasset River-Frontal Long Island Sound,110000402,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6181470,6181470,outlet,Mill River-Frontal Long Island Sound,110000403,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6181324,6181324,outlet,Mill River-Frontal Long Island Sound,110000403,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6181312,6181312,outlet,Mill River-Frontal Long Island Sound,110000403,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6181326,6181326,outlet,Mill River-Frontal Long Island Sound,110000403,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6181330,6181330,outlet,Mill River-Frontal Long Island Sound,110000403,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6177678,6177678,outlet,Mill River-Frontal Long Island Sound,110000403,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6177964,6177964,outlet,Mill River-Frontal Long Island Sound,110000403,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6177676,6177676,outlet,Mill River-Frontal Long Island Sound,110000403,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6177962,6177962,outlet,Hammonasset River-Frontal Long Island Sound,110000402,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6177960,6177960,outlet,Hammonasset River-Frontal Long Island Sound,110000402,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6177654,6177654,outlet,Hammonasset River-Frontal Long Island Sound,110000402,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6177972,6177972,outlet,Hammonasset River-Frontal Long Island Sound,110000402,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6177668,6177668,outlet,Hammonasset River-Frontal Long Island Sound,110000402,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6177938,6177938,outlet,Hammonasset River-Frontal Long Island Sound,110000402,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6177656,6177656,outlet,Hammonasset River-Frontal Long Island Sound,110000402,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6177644,6177644,outlet,Hammonasset River-Frontal Long Island Sound,110000402,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6178222,6178222,outlet,Hammonasset River-Frontal Long Island Sound,110000402,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6178230,6178230,outlet,Hammonasset River-Frontal Long Island Sound,110000402,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6177664,6177664,outlet,Hammonasset River-Frontal Long Island Sound,110000402,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6177616,6177616,outlet,Hammonasset River-Frontal Long Island Sound,110000402,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6177950,6177950,outlet,Hammonasset River-Frontal Long Island Sound,110000402,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6177954,6177954,outlet,Hammonasset River-Frontal Long Island Sound,110000402,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6178292,6178292,outlet,Mill River-Frontal Long Island Sound,110000403,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6178614,6178614,outlet,Quinnipiac River,110000401,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+6177932,6177932,outlet,Eightmile River-Connecticut River,108020509,Lower Connecticut,1080205,Lower Connecticut,10802,Connecticut,108,New England Region,1
+6178144,6178144,outlet,Hammonasset River-Frontal Long Island Sound,110000402,Quinnipiac,1100004,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7718580,7718580,outlet,Housatonic River-Frontal Long Island Sound,110000513,Housatonic,1100005,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7732095,7732095,outlet,Pequonnock River-Frontal Long Island Sound,110000603,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7733853,7733853,outlet,Saugatuck River-Frontal Long Island Sound,110000601,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7733919,7733919,outlet,Norwalk River-Frontal Norwalk Harbor,110000602,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7734453,7734453,outlet,Mianus River-Frontal Long Island Sound,110000604,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7733099,7733099,outlet,Mianus River-Frontal Long Island Sound,110000604,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7737521,7737521,outlet,Mianus River-Frontal Long Island Sound,110000604,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7732833,7732833,outlet,Saugatuck River-Frontal Long Island Sound,110000601,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7732437,7732437,outlet,Pequonnock River-Frontal Long Island Sound,110000603,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7733307,7733307,outlet,Pequonnock River-Frontal Long Island Sound,110000603,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7732399,7732399,outlet,Pequonnock River-Frontal Long Island Sound,110000603,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7733103,7733103,outlet,Mianus River-Frontal Long Island Sound,110000604,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7733101,7733101,outlet,Mianus River-Frontal Long Island Sound,110000604,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7733079,7733079,outlet,Mianus River-Frontal Long Island Sound,110000604,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7733085,7733085,outlet,Mianus River-Frontal Long Island Sound,110000604,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7733087,7733087,outlet,Mianus River-Frontal Long Island Sound,110000604,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7734431,7734431,outlet,Mianus River-Frontal Long Island Sound,110000604,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7734423,7734423,outlet,Mianus River-Frontal Long Island Sound,110000604,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7734421,7734421,outlet,Mianus River-Frontal Long Island Sound,110000604,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7734415,7734415,outlet,Mianus River-Frontal Long Island Sound,110000604,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7732815,7732815,outlet,Saugatuck River-Frontal Long Island Sound,110000601,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+25077396,25077396,outlet,Saugatuck River-Frontal Long Island Sound,110000601,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7732745,7732745,outlet,Saugatuck River-Frontal Long Island Sound,110000601,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7732701,7732701,outlet,Pequonnock River-Frontal Long Island Sound,110000603,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7732677,7732677,outlet,Pequonnock River-Frontal Long Island Sound,110000603,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7732493,7732493,outlet,Pequonnock River-Frontal Long Island Sound,110000603,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7732483,7732483,outlet,Pequonnock River-Frontal Long Island Sound,110000603,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7732439,7732439,outlet,Pequonnock River-Frontal Long Island Sound,110000603,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7732155,7732155,outlet,Pequonnock River-Frontal Long Island Sound,110000603,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7733287,7733287,outlet,Pequonnock River-Frontal Long Island Sound,110000603,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7732369,7732369,outlet,Pequonnock River-Frontal Long Island Sound,110000603,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7732377,7732377,outlet,Pequonnock River-Frontal Long Island Sound,110000603,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7732373,7732373,outlet,Pequonnock River-Frontal Long Island Sound,110000603,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7732343,7732343,outlet,Pequonnock River-Frontal Long Island Sound,110000603,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7732367,7732367,outlet,Pequonnock River-Frontal Long Island Sound,110000603,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7732371,7732371,outlet,Pequonnock River-Frontal Long Island Sound,110000603,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7732405,7732405,outlet,Pequonnock River-Frontal Long Island Sound,110000603,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7733311,7733311,outlet,Pequonnock River-Frontal Long Island Sound,110000603,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7732957,7732957,outlet,Norwalk River-Frontal Norwalk Harbor,110000602,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7733109,7733109,outlet,Mianus River-Frontal Long Island Sound,110000604,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7732389,7732389,outlet,Pequonnock River-Frontal Long Island Sound,110000603,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7734439,7734439,outlet,Mianus River-Frontal Long Island Sound,110000604,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7734457,7734457,outlet,Mianus River-Frontal Long Island Sound,110000604,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7733327,7733327,outlet,Pequonnock River-Frontal Long Island Sound,110000603,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7734445,7734445,outlet,Mianus River-Frontal Long Island Sound,110000604,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7733097,7733097,outlet,Mianus River-Frontal Long Island Sound,110000604,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+7733789,7733789,outlet,Pequonnock River-Frontal Long Island Sound,110000603,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
+25077314,25077314,outlet,Saugatuck River-Frontal Long Island Sound,110000601,Saugatuck,1100006,Connecticut Coastal,11000,Connecticut Coastal,110,New England Region,1
