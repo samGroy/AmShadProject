@@ -1,0 +1,20 @@
+HabCalc Field code description
+File name provides data on location, width threshold used, slope threshold used, and tidal/nontidal
+Example: "HabitatNIME102_wd5m_slp2.5_tidal0.csv" provides data for the Penobscot River (Northern iteroperous Maine region, HUC 0102) with 5 m width and 2.5% slope thresholds.
+
+field codes and meanings:
+"UNIQUE_ID": unique value given to each dam and outlet feature.
+"type": type of feature, 'dam' or 'outlet'.
+"catchmentID": unique value of the coastal outlet in which the dam is located upstream.
+"habitat_sqkm": total habitat upstream, given in square kilometers of river area.
+"habitatSegment_sqkm": amount of habitat in the segment upstream of the feature, between the feature and the next group of adjacent upstream features.
+"functional_habitatSegment_sqkm": the value of "habitatSegment_sqkm" multiplied by the compounded passage fraction from outlet up to the feature. 
+"PassageToHabitat": Passage fraction at feature, compounded over this and all downstream features. Default dam passage is zero, default outlet passage is one. These values can be modified at start of model run.
+"TERMCODE": code used to identify regional, state, or river units in which features are located, assists with subselecting features for analysis.
+"terminal_name_huc10": name of HUC10 watershed of feature's outlet
+"terminal_name_huc8": name of HUC8 watershed of feature's outlet
+"terminal_name_huc6": name of HUC6 watershed of feature's outlet
+"terminal_name_huc4": name of HUC4 watershed of feature's outlet
+"dam_name": name of dam feature, "n/a" if outlet
+"latitude/longitude": coordinates of feature
+"dam_order": order in which dam is located in river, starting from coastal outlet. Outlets have code = 0
